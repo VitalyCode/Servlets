@@ -28,6 +28,11 @@
             <version>2.8.6</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>6.2.5</version> <!-- Используйте самую актуальную версию -->
+        </dependency>
     </dependencies>
 
 </project>
